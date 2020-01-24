@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/01/24 10:49:11.741,=C:\GitHub\Unit1.pas</Transaction>
+    <Transaction>2020/01/24 10:49:36.887,C:\Users\Pedro\Desktop\Teste\Unit1.pas=C:\GitHub\Unit1.pas</Transaction>
+    <Transaction>2020/01/24 10:49:36.887,C:\Users\Pedro\Desktop\Teste\Unit1.dfm=C:\GitHub\Unit1.dfm</Transaction>
+    <Transaction>2020/01/24 10:49:40.650,C:\Users\Pedro\Desktop\Teste\Project1.dproj=C:\GitHub\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
